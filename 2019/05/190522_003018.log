@@ -1,0 +1,130 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig101.sh v-190521.2342 crontab action 4 auto publish py
+###::run@ 2019/05/22 00:30:27
+<<<   trigger by /opt/www/101camp/gl_py.101.camp/_trigger/deploy.md 
+Creating a Pipfile for this project…
+/opt/www/101camp
+/opt/www/101camp
+
+	 crt. PATH ===
+/opt/www/101camp/gl_py.101.camp
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/zq_ghpy101camp
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/gl_py.101.camp
+./_trigger
+TRIGGERed by deploy.md exist
+auto deplo NOW:
+/opt/www/101camp/gl_py.101.camp
+INFO    -  Cleaning site directory 
+INFO    -  Building documentation to directory: /opt/www/101camp/gl_py.101.camp/site 
+./_trigger/deploy.md
+removed './_trigger/deploy.md'
+total 4.0K
+-rw-rw-r-- 1 1.2K May 21 23:50 .gitignore
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    _trigger/deploy.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Pipfile
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master faee200] 🐛 FIX: (pubDUW) recover trigger obj. wait NEXT deploy
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+ create mode 100644 Pipfile
+ delete mode 100644 _trigger/deploy.md
+To git@gitlab.com:pythonicamp/running/py.101.camp.git
+   2cb478b..faee200  master -> master
+TRIGGER obj. recover -> waiting human deploy again
+/opt/www/101camp/gl_py.101.camp
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+Everything up-to-date
+/opt/www/101camp
+404.html
+announce
+CNAME
+css
+faq
+fonts
+img
+index.html
+js
+license
+search
+sitemap.xml
+sitemap.xml.gz
+/opt/www/101camp/gl_py.101.camp
+'img/101camp_bauhaus_v3h120.png' -> 'site/img/101camp_bauhaus_v3h120.png'
+'img/101camp_bauhaus_v3h16.png' -> 'site/img/101camp_bauhaus_v3h16.png'
+'img/101camp_bauhaus_v3h32.png' -> 'site/img/101camp_bauhaus_v3h32.png'
+'img/101camp_bauhaus_v3h64.png' -> 'site/img/101camp_bauhaus_v3h64.png'
+'img/101camp_bauhaus_v4h420.ico' -> 'site/img/101camp_bauhaus_v4h420.ico'
+'img/190331reg101camp1py-RQ.JPG' -> 'site/img/190331reg101camp1py-RQ.JPG'
+'img/190331reg101camp1py-img.jpg' -> 'site/img/190331reg101camp1py-img.jpg'
+'img/DAMA_manga.PNG' -> 'site/img/DAMA_manga.PNG'
+'img/www101camp.jpg' -> 'site/img/www101camp.jpg'
+404.html
+announce
+CNAME
+css
+faq
+fonts
+img
+index.html
+js
+license
+search
+sitemap.xml
+sitemap.xml.gz
+/opt/www/101camp/gl_py.101.camp
+
+	 crt. PATH ===
+/opt/www/101camp/zq_ghpy101camp
+404.html
+announce
+CNAME
+css
+faq
+fonts
+img
+index.html
+js
+license
+search
+sitemap.xml
+sitemap.xml.gz
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   index.html
+	modified:   sitemap.xml
+	modified:   sitemap.xml.gz
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 28dfee0] 👌 IMPROVE: pub(site) gen. by MkDocs as invoke (at 190522 0030 44.728)
+ 3 files changed, 5 insertions(+), 5 deletions(-)
+To git@github.com:ZoomQuiet/ghpy101camp.git
+   0601a25..28dfee0  master -> master
+
+	 powded by pub101CAMP v.190521.2042
+###::end@ 2019/05/22 00:30:51
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
