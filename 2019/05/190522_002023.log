@@ -1,0 +1,16 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig101.sh v-190521.2342 crontab action 4 auto publish SITE
+###::run@ 2019/05/22 00:20:33
+<<<   trigger by /opt/www/101camp/gl_101.camp/_trigger/deploy.md 
+Courtesy Notice: Pipenv found itself running within a virtual environment, so it will automatically use that environment, instead of creating its own for any project. You can set PIPENV_IGNORE_VIRTUALENVS=1 to force pipenv to ignore that environment and create its own instead. You can set PIPENV_VERBOSITY=-1 to suppress this warning.
+Available tasks:
+
+  bu       usgae MkDocs build AIM site
+  chktri   check trigger obj. set TRIGGER switch
+  pl       $ inv pl [101|py] <- pull all relation repo.
+  pub      $ inv pub [101|py] <- auto deploy new site version base multi-repo.
+  ver      echo crt. verions
+
+'pub' did not receive required positional arguments: 'site'
+###::end@ 2019/05/22 00:20:33
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

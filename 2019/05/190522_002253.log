@@ -1,0 +1,114 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig101.sh v-190521.2342 crontab action 4 auto publish SITE
+###::run@ 2019/05/22 00:23:03
+<<<   trigger by /opt/www/101camp/gl_101.camp/_trigger/deploy.md 
+/opt/www/101camp
+/opt/www/101camp
+
+	 crt. PATH ===
+/opt/www/101camp/gl_101.camp
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/zq_gh101camp
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/gl_101.camp
+./_trigger
+TRIGGERed by deploy.md exist
+auto deplo NOW:
+/opt/www/101camp/gl_101.camp
+ERROR   -  Config value: 'theme'. Error: Unrecognised theme name: 'material'. The available installed themes are: mkdocs, readthedocs, amelia, cerulean, cosmo, cyborg, flatly, journal, readable, simplex, slate, spacelab, united, yeti 
+ERROR   -  Config value: 'markdown_extensions'. Error: Failed loading extension "pymdownx.smartsymbols". 
+
+Aborted with 2 Configuration Errors!
+./_trigger/deploy.md
+removed './_trigger/deploy.md'
+total 4.0K
+-rw-rw-r-- 1 1.2K May 21 23:47 .gitignore
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    _trigger/deploy.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Pipfile
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 453d0c1] 🐛 FIX: (pubDUW) recover trigger obj. wait NEXT deploy
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+ create mode 100644 Pipfile
+ delete mode 100644 _trigger/deploy.md
+To git@gitlab.com:pythonicamp/running/101.camp.git
+   08ee029..453d0c1  master -> master
+TRIGGER obj. recover -> waiting human deploy again
+/opt/www/101camp/gl_101.camp
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+Everything up-to-date
+/opt/www/101camp
+404.html
+about
+assets
+CNAME
+img
+index.html
+process
+scm
+sitemap.xml
+sitemap.xml.gz
+story
+/opt/www/101camp/gl_101.camp
+'img/101camp_bauhaus_v3h120.png' -> 'site/img/101camp_bauhaus_v3h120.png'
+'img/101camp_bauhaus_v3h16.png' -> 'site/img/101camp_bauhaus_v3h16.png'
+'img/101camp_bauhaus_v3h32.png' -> 'site/img/101camp_bauhaus_v3h32.png'
+'img/101camp_bauhaus_v3h64.png' -> 'site/img/101camp_bauhaus_v3h64.png'
+'img/101camp_bauhaus_v4h420.ico' -> 'site/img/101camp_bauhaus_v4h420.ico'
+'img/screenshot.png' -> 'site/img/screenshot.png'
+404.html
+about
+assets
+CNAME
+img
+index.html
+process
+scm
+sitemap.xml
+sitemap.xml.gz
+story
+/opt/www/101camp/gl_101.camp
+
+	 crt. PATH ===
+/opt/www/101camp/zq_gh101camp
+404.html
+about
+assets
+CNAME
+img
+index.html
+process
+scm
+sitemap.xml
+sitemap.xml.gz
+story
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+Everything up-to-date
+
+	 powded by pub101CAMP v.190521.2042
+###::end@ 2019/05/22 00:23:32
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
