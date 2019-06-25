@@ -1,0 +1,160 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig101.sh v-190521.2342 crontab action 4 auto publish py
+###::run@ 2019/06/25 20:48:02
+<<<   trigger by /opt/www/101camp/gl_py.101.camp/_trigger/deploy.md 
+/opt/www/101camp
+/opt/www/101camp
+
+	 crt. PATH ===
+/opt/www/101camp/gl_py.101.camp
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/zq_ghpy101camp
+
+	 crt. PATH ===
+/opt/www/101camp/gl_py.101.camp
+./_trigger
+TRIGGERed by deploy.md exist
+auto deplo NOW:
+/opt/www/101camp/gl_py.101.camp
+INFO    -  Cleaning site directory 
+INFO    -  Building documentation to directory: /opt/www/101camp/gl_py.101.camp/site 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - pol.md
+  - pol/0py/9009l3.md
+  - pol/0py/adi0229.md
+  - pol/0py/anranfengxue.md
+  - pol/0py/azeril.md
+  - pol/0py/b.j.md
+  - pol/0py/bggiser.md
+  - pol/0py/chaozding.md
+  - pol/0py/chenhao0327.md
+  - pol/0py/chenmingio.md
+  - pol/0py/chenshanshan33.md
+  - pol/0py/chifeng.md
+  - pol/0py/cllcyn.md
+  - pol/0py/doituself.md
+  - pol/0py/elitefish.md
+  - pol/0py/erdongheng.md
+  - pol/0py/fengbinbin.md
+  - pol/0py/finesisi.md
+  - pol/0py/freshniu.md
+  - pol/0py/glamourbunny2018.md
+  - pol/0py/holygouwal_ii.md
+  - pol/0py/huangyu9887.md
+  - pol/0py/hupo2016.md
+  - pol/0py/hyacinth0906.md
+  - pol/0py/hzym.md
+  - pol/0py/jiangzhenye.md
+  - pol/0py/jilur.md
+  - pol/0py/mac19491.md
+  - pol/0py/michelwei.md
+  - pol/0py/mollywoo.md
+  - pol/0py/moonject.md
+  - pol/0py/omlalala.md
+  - pol/0py/ouyang-liu.md
+  - pol/0py/qisimx.md
+  - pol/0py/quseitlab.md
+  - pol/0py/recaff.md
+  - pol/0py/ruolan.md
+  - pol/0py/shuangma.md
+  - pol/0py/skago.md
+  - pol/0py/stoneamber.md
+  - pol/0py/sylviacheung.md
+  - pol/0py/tanchangde.md
+  - pol/0py/tongtong.hei.md
+  - pol/0py/tust2007.md
+  - pol/0py/wangh0117.md
+  - pol/0py/weiweilei.md
+  - pol/0py/will.lv.md
+  - pol/0py/wuqi-57.md
+  - pol/0py/xdpwjj.md
+  - pol/0py/xiaoshizi1024.md
+  - pol/0py/xiaoxuan-yuki.md
+  - pol/0py/xiaoyanwork.md
+  - pol/0py/xiawei.md
+  - pol/0py/xjwlmqsybk.md
+  - pol/0py/xunyun.md
+  - pol/0py/yijia0703.md
+  - pol/0py/yishu.md
+  - pol/0py/yixuanli.md
+  - pol/0py/youle777.md
+  - pol/0py/youying0356.md
+  - pol/0py/yuu-.md
+  - pol/0py/zhangjianjun31.md
+  - pol/0py/zhenghuima123.md
+  - pol/0py/zhengxixuan.md
+  - pol/0py/zhijinkai.md
+  - pol/0py/zj05409.md
+  - pol/0py/zoomquiet.md
+  - pol/1py/276853380.md
+  - pol/1py/374785733.md
+  - pol/1py/azeril.md
+  - pol/1py/caicono.md
+  - pol/1py/cecila.md
+  - pol/1py/charliewu101.md
+  - pol/1py/chengyuan101.md
+  - pol/1py/chifeng.md
+  - pol/1py/doituself.md
+  - pol/1py/eileen101.md
+  - pol/1py/hstaoqian101.md
+  - pol/1py/huyuning.md
+  - pol/1py/jami101.md
+  - pol/1py/jinboo.md
+  - pol/1py/l-luffy.md
+  - pol/1py/lbxwz86292.md
+  - pol/1py/leon_xu.md
+  - pol/1py/lichuan.md
+  - pol/1py/linfeng101.md
+  - pol/1py/liumin101.md
+  - pol/1py/ljxzsx4.md
+  - pol/1py/luyangju.md
+  - pol/1py/maydayblue.md
+  - pol/1py/nannouncer.md
+  - pol/1py/nbr-hugh.md
+  - pol/1py/near8023.md
+  - pol/1py/nocynic.md
+  - pol/1py/puzzling-pzl.md
+  - pol/1py/qi.lin.md
+  - pol/1py/quseitlab.md
+  - pol/1py/soloman.md
+  - pol/1py/sunwentao0322.md
+  - pol/1py/tanchangde.md
+  - pol/1py/tanchanghui.md
+  - pol/1py/touchhg.md
+  - pol/1py/unclejia.md
+  - pol/1py/wenzichu.md
+  - pol/1py/wfarstar.md
+  - pol/1py/xiaoyanwork.md
+  - pol/1py/xiaoyiam.md
+  - pol/1py/yishu.md
+  - pol/1py/yixuanli.md
+  - pol/1py/yw87655878.md
+  - pol/1py/zhaofuan.md
+  - pol/1py/zheng2019.md
+  - pol/1py/zhengxixuan.md
+  - pol/1py/zhouyinyun.md
+  - pol/1py/zj05409.md
+  - pol/1py/zoomquiet.md
+  - pol/1py/zssuestc.md 
+
+Aborted!
+./_trigger/deploy.md
+removed './_trigger/deploy.md'
+total 4.0K
+-rw-rw-r-- 1 1.2K May 21 23:50 .gitignore
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    _trigger/deploy.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9867914] 🐛 FIX: (pubDUW) recover trigger obj. wait NEXT deploy
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 _trigger/deploy.md
+###::end@ 2019/06/25 20:48:42
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
