@@ -1,0 +1,365 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig101.sh v-190521.2342 crontab action 4 auto publish py
+###::run@ 2019/06/25 21:33:57
+<<<   trigger by /opt/www/101camp/gl_py.101.camp/_trigger/deploy.md 
+/opt/www/101camp
+/opt/www/101camp
+
+	 crt. PATH ===
+/opt/www/101camp/gl_py.101.camp
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/zq_ghpy101camp
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/gl_py.101.camp
+./_trigger
+TRIGGERed by deploy.md exist
+auto deplo NOW:
+/opt/www/101camp/gl_py.101.camp
+INFO    -  Cleaning site directory 
+INFO    -  Building documentation to directory: /opt/www/101camp/gl_py.101.camp/site 
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - pol.md
+  - pol/0py/9009l3.md
+  - pol/0py/adi0229.md
+  - pol/0py/anranfengxue.md
+  - pol/0py/azeril.md
+  - pol/0py/b.j.md
+  - pol/0py/bggiser.md
+  - pol/0py/chaozding.md
+  - pol/0py/chenhao0327.md
+  - pol/0py/chenmingio.md
+  - pol/0py/chenshanshan33.md
+  - pol/0py/chifeng.md
+  - pol/0py/cllcyn.md
+  - pol/0py/doituself.md
+  - pol/0py/elitefish.md
+  - pol/0py/erdongheng.md
+  - pol/0py/fengbinbin.md
+  - pol/0py/finesisi.md
+  - pol/0py/freshniu.md
+  - pol/0py/glamourbunny2018.md
+  - pol/0py/holygouwal_ii.md
+  - pol/0py/huangyu9887.md
+  - pol/0py/hupo2016.md
+  - pol/0py/hyacinth0906.md
+  - pol/0py/hzym.md
+  - pol/0py/jiangzhenye.md
+  - pol/0py/jilur.md
+  - pol/0py/mac19491.md
+  - pol/0py/michelwei.md
+  - pol/0py/mollywoo.md
+  - pol/0py/moonject.md
+  - pol/0py/omlalala.md
+  - pol/0py/ouyang-liu.md
+  - pol/0py/qisimx.md
+  - pol/0py/quseitlab.md
+  - pol/0py/recaff.md
+  - pol/0py/ruolan.md
+  - pol/0py/shuangma.md
+  - pol/0py/skago.md
+  - pol/0py/stoneamber.md
+  - pol/0py/sylviacheung.md
+  - pol/0py/tanchangde.md
+  - pol/0py/tongtong.hei.md
+  - pol/0py/tust2007.md
+  - pol/0py/wangh0117.md
+  - pol/0py/weiweilei.md
+  - pol/0py/will.lv.md
+  - pol/0py/wuqi-57.md
+  - pol/0py/xdpwjj.md
+  - pol/0py/xiaoshizi1024.md
+  - pol/0py/xiaoxuan-yuki.md
+  - pol/0py/xiaoyanwork.md
+  - pol/0py/xiawei.md
+  - pol/0py/xjwlmqsybk.md
+  - pol/0py/xunyun.md
+  - pol/0py/yijia0703.md
+  - pol/0py/yishu.md
+  - pol/0py/yixuanli.md
+  - pol/0py/youle777.md
+  - pol/0py/youying0356.md
+  - pol/0py/yuu-.md
+  - pol/0py/zhangjianjun31.md
+  - pol/0py/zhenghuima123.md
+  - pol/0py/zhengxixuan.md
+  - pol/0py/zhijinkai.md
+  - pol/0py/zj05409.md
+  - pol/0py/zoomquiet.md
+  - pol/1py/276853380.md
+  - pol/1py/374785733.md
+  - pol/1py/azeril.md
+  - pol/1py/caicono.md
+  - pol/1py/cecila.md
+  - pol/1py/charliewu101.md
+  - pol/1py/chengyuan101.md
+  - pol/1py/chifeng.md
+  - pol/1py/doituself.md
+  - pol/1py/eileen101.md
+  - pol/1py/hstaoqian101.md
+  - pol/1py/huyuning.md
+  - pol/1py/jami101.md
+  - pol/1py/jinboo.md
+  - pol/1py/l-luffy.md
+  - pol/1py/lbxwz86292.md
+  - pol/1py/leon_xu.md
+  - pol/1py/lichuan.md
+  - pol/1py/linfeng101.md
+  - pol/1py/liumin101.md
+  - pol/1py/ljxzsx4.md
+  - pol/1py/luyangju.md
+  - pol/1py/maydayblue.md
+  - pol/1py/nannouncer.md
+  - pol/1py/nbr-hugh.md
+  - pol/1py/near8023.md
+  - pol/1py/nocynic.md
+  - pol/1py/puzzling-pzl.md
+  - pol/1py/qi.lin.md
+  - pol/1py/quseitlab.md
+  - pol/1py/soloman.md
+  - pol/1py/sunwentao0322.md
+  - pol/1py/tanchangde.md
+  - pol/1py/tanchanghui.md
+  - pol/1py/touchhg.md
+  - pol/1py/unclejia.md
+  - pol/1py/wenzichu.md
+  - pol/1py/wfarstar.md
+  - pol/1py/xiaoyanwork.md
+  - pol/1py/xiaoyiam.md
+  - pol/1py/yishu.md
+  - pol/1py/yixuanli.md
+  - pol/1py/yw87655878.md
+  - pol/1py/zhaofuan.md
+  - pol/1py/zheng2019.md
+  - pol/1py/zhengxixuan.md
+  - pol/1py/zhouyinyun.md
+  - pol/1py/zj05409.md
+  - pol/1py/zoomquiet.md
+  - pol/1py/zssuestc.md 
+./_trigger/deploy.md
+removed './_trigger/deploy.md'
+total 4.0K
+-rw-rw-r-- 1 1.2K May 21 23:50 .gitignore
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    _trigger/deploy.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 69f51e4] 🐛 FIX: (pubDUW) recover trigger obj. wait NEXT deploy
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 _trigger/deploy.md
+To git@gitlab.com:pythonicamp/running/py.101.camp.git
+   c4eaf2e..69f51e4  master -> master
+TRIGGER obj. recover -> waiting human deploy again
+/opt/www/101camp/gl_py.101.camp
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+Everything up-to-date
+/opt/www/101camp
+404.html
+announce
+CNAME
+css
+faq
+fonts
+img
+index.html
+js
+license
+pol
+search
+sitemap.xml
+sitemap.xml.gz
+/opt/www/101camp/gl_py.101.camp
+'img/101camp_bauhaus_v3h120.png' -> 'site/img/101camp_bauhaus_v3h120.png'
+'img/101camp_bauhaus_v3h16.png' -> 'site/img/101camp_bauhaus_v3h16.png'
+'img/101camp_bauhaus_v3h32.png' -> 'site/img/101camp_bauhaus_v3h32.png'
+'img/101camp_bauhaus_v3h64.png' -> 'site/img/101camp_bauhaus_v3h64.png'
+'img/101camp_bauhaus_v4h420.ico' -> 'site/img/101camp_bauhaus_v4h420.ico'
+'img/190331reg101camp1py-RQ.JPG' -> 'site/img/190331reg101camp1py-RQ.JPG'
+'img/190331reg101camp1py-img.jpg' -> 'site/img/190331reg101camp1py-img.jpg'
+'img/DAMA_manga.PNG' -> 'site/img/DAMA_manga.PNG'
+'img/www101camp.jpg' -> 'site/img/www101camp.jpg'
+'img/0py_9009l3.png' -> 'site/img/0py_9009l3.png'
+'img/0py_Azeril.png' -> 'site/img/0py_Azeril.png'
+'img/0py_B.J.png' -> 'site/img/0py_B.J.png'
+'img/0py_BGGiser.png' -> 'site/img/0py_BGGiser.png'
+'img/0py_Freshniu.png' -> 'site/img/0py_Freshniu.png'
+'img/0py_Glamourbunny2018.png' -> 'site/img/0py_Glamourbunny2018.png'
+'img/0py_Holygouwal_II.png' -> 'site/img/0py_Holygouwal_II.png'
+'img/0py_OMlalala.png' -> 'site/img/0py_OMlalala.png'
+'img/0py_OUYANG-LIU.png' -> 'site/img/0py_OUYANG-LIU.png'
+'img/0py_Shuangma.png' -> 'site/img/0py_Shuangma.png'
+'img/0py_StoneAmber.png' -> 'site/img/0py_StoneAmber.png'
+'img/0py_SylviaCheung.png' -> 'site/img/0py_SylviaCheung.png'
+'img/0py_Will.Lv.png' -> 'site/img/0py_Will.Lv.png'
+'img/0py_XiaoYanWork.png' -> 'site/img/0py_XiaoYanWork.png'
+'img/0py_Xiaoshizi1024.png' -> 'site/img/0py_Xiaoshizi1024.png'
+'img/0py_Yijia0703.png' -> 'site/img/0py_Yijia0703.png'
+'img/0py_YixuanLi.png' -> 'site/img/0py_YixuanLi.png'
+'img/0py_ZoomQuiet.png' -> 'site/img/0py_ZoomQuiet.png'
+'img/0py_adi0229.png' -> 'site/img/0py_adi0229.png'
+'img/0py_anranfengxue.png' -> 'site/img/0py_anranfengxue.png'
+'img/0py_chaozding.png' -> 'site/img/0py_chaozding.png'
+'img/0py_chenhao0327.png' -> 'site/img/0py_chenhao0327.png'
+'img/0py_chenmingio.png' -> 'site/img/0py_chenmingio.png'
+'img/0py_chenshanshan33.png' -> 'site/img/0py_chenshanshan33.png'
+'img/0py_chifeng.png' -> 'site/img/0py_chifeng.png'
+'img/0py_cllcyn.png' -> 'site/img/0py_cllcyn.png'
+'img/0py_doituself.png' -> 'site/img/0py_doituself.png'
+'img/0py_elitefish.png' -> 'site/img/0py_elitefish.png'
+'img/0py_erdongheng.png' -> 'site/img/0py_erdongheng.png'
+'img/0py_fengbinbin.png' -> 'site/img/0py_fengbinbin.png'
+'img/0py_finesisi.png' -> 'site/img/0py_finesisi.png'
+'img/0py_huangyu9887.png' -> 'site/img/0py_huangyu9887.png'
+'img/0py_hupo2016.png' -> 'site/img/0py_hupo2016.png'
+'img/0py_hyacinth0906.png' -> 'site/img/0py_hyacinth0906.png'
+'img/0py_hzym.png' -> 'site/img/0py_hzym.png'
+'img/0py_jiangzhenye.png' -> 'site/img/0py_jiangzhenye.png'
+'img/0py_jilur.png' -> 'site/img/0py_jilur.png'
+'img/0py_mac19491.png' -> 'site/img/0py_mac19491.png'
+'img/0py_michelwei.png' -> 'site/img/0py_michelwei.png'
+'img/0py_mollywoo.png' -> 'site/img/0py_mollywoo.png'
+'img/0py_moonject.png' -> 'site/img/0py_moonject.png'
+'img/0py_qisimx.png' -> 'site/img/0py_qisimx.png'
+'img/0py_quseitlab.png' -> 'site/img/0py_quseitlab.png'
+'img/0py_recaff.png' -> 'site/img/0py_recaff.png'
+'img/0py_ruolan.png' -> 'site/img/0py_ruolan.png'
+'img/0py_skago.png' -> 'site/img/0py_skago.png'
+'img/0py_tanchangde.png' -> 'site/img/0py_tanchangde.png'
+'img/0py_tongtong.hei.png' -> 'site/img/0py_tongtong.hei.png'
+'img/0py_tust2007.png' -> 'site/img/0py_tust2007.png'
+'img/0py_wangh0117.png' -> 'site/img/0py_wangh0117.png'
+'img/0py_weiweilei.png' -> 'site/img/0py_weiweilei.png'
+'img/0py_wuqi-57.png' -> 'site/img/0py_wuqi-57.png'
+'img/0py_xdpwjj.png' -> 'site/img/0py_xdpwjj.png'
+'img/0py_xiaoxuan-yuki.png' -> 'site/img/0py_xiaoxuan-yuki.png'
+'img/0py_xiawei.png' -> 'site/img/0py_xiawei.png'
+'img/0py_xjwlmqsybk.png' -> 'site/img/0py_xjwlmqsybk.png'
+'img/0py_xunyun.png' -> 'site/img/0py_xunyun.png'
+'img/0py_yishu.png' -> 'site/img/0py_yishu.png'
+'img/0py_youle777.png' -> 'site/img/0py_youle777.png'
+'img/0py_youying0356.png' -> 'site/img/0py_youying0356.png'
+'img/0py_yuu-.png' -> 'site/img/0py_yuu-.png'
+'img/0py_zhangjianjun31.png' -> 'site/img/0py_zhangjianjun31.png'
+'img/0py_zhenghuima123.png' -> 'site/img/0py_zhenghuima123.png'
+'img/0py_zhengxixuan.png' -> 'site/img/0py_zhengxixuan.png'
+'img/0py_zhijinkai.png' -> 'site/img/0py_zhijinkai.png'
+'img/0py_zj05409.png' -> 'site/img/0py_zj05409.png'
+'img/1py_276853380.png' -> 'site/img/1py_276853380.png'
+'img/1py_374785733.png' -> 'site/img/1py_374785733.png'
+'img/1py_Azeril.png' -> 'site/img/1py_Azeril.png'
+'img/1py_L-luffy.png' -> 'site/img/1py_L-luffy.png'
+'img/1py_LiChuan.png' -> 'site/img/1py_LiChuan.png'
+'img/1py_NBR-hugh.png' -> 'site/img/1py_NBR-hugh.png'
+'img/1py_XiaoYanWork.png' -> 'site/img/1py_XiaoYanWork.png'
+'img/1py_YixuanLi.png' -> 'site/img/1py_YixuanLi.png'
+'img/1py_ZoomQuiet.png' -> 'site/img/1py_ZoomQuiet.png'
+'img/1py_caicono.png' -> 'site/img/1py_caicono.png'
+'img/1py_cecila.png' -> 'site/img/1py_cecila.png'
+'img/1py_charliewu101.png' -> 'site/img/1py_charliewu101.png'
+'img/1py_chengyuan101.png' -> 'site/img/1py_chengyuan101.png'
+'img/1py_chifeng.png' -> 'site/img/1py_chifeng.png'
+'img/1py_doituself.png' -> 'site/img/1py_doituself.png'
+'img/1py_eileen101.png' -> 'site/img/1py_eileen101.png'
+'img/1py_hstaoqian101.png' -> 'site/img/1py_hstaoqian101.png'
+'img/1py_huyuning.png' -> 'site/img/1py_huyuning.png'
+'img/1py_jami101.png' -> 'site/img/1py_jami101.png'
+'img/1py_jinboo.png' -> 'site/img/1py_jinboo.png'
+'img/1py_lbxwz86292.png' -> 'site/img/1py_lbxwz86292.png'
+'img/1py_leon_xu.png' -> 'site/img/1py_leon_xu.png'
+'img/1py_linfeng101.png' -> 'site/img/1py_linfeng101.png'
+'img/1py_liumin101.png' -> 'site/img/1py_liumin101.png'
+'img/1py_ljxzsx4.png' -> 'site/img/1py_ljxzsx4.png'
+'img/1py_luyangju.png' -> 'site/img/1py_luyangju.png'
+'img/1py_maydayblue.png' -> 'site/img/1py_maydayblue.png'
+'img/1py_nannouncer.png' -> 'site/img/1py_nannouncer.png'
+'img/1py_near8023.png' -> 'site/img/1py_near8023.png'
+'img/1py_nocynic.png' -> 'site/img/1py_nocynic.png'
+'img/1py_puzzling-PZL.png' -> 'site/img/1py_puzzling-PZL.png'
+'img/1py_qi.lin.png' -> 'site/img/1py_qi.lin.png'
+'img/1py_quseitlab.png' -> 'site/img/1py_quseitlab.png'
+'img/1py_soloman.png' -> 'site/img/1py_soloman.png'
+'img/1py_sunwentao0322.png' -> 'site/img/1py_sunwentao0322.png'
+'img/1py_tanchangde.png' -> 'site/img/1py_tanchangde.png'
+'img/1py_tanchanghui.png' -> 'site/img/1py_tanchanghui.png'
+'img/1py_touchhg.png' -> 'site/img/1py_touchhg.png'
+'img/1py_unclejia.png' -> 'site/img/1py_unclejia.png'
+'img/1py_wenzichu.png' -> 'site/img/1py_wenzichu.png'
+'img/1py_wfarstar.png' -> 'site/img/1py_wfarstar.png'
+'img/1py_xiaoyiam.png' -> 'site/img/1py_xiaoyiam.png'
+'img/1py_yishu.png' -> 'site/img/1py_yishu.png'
+'img/1py_yw87655878.png' -> 'site/img/1py_yw87655878.png'
+'img/1py_zhaofuan.png' -> 'site/img/1py_zhaofuan.png'
+'img/1py_zheng2019.png' -> 'site/img/1py_zheng2019.png'
+'img/1py_zhengxixuan.png' -> 'site/img/1py_zhengxixuan.png'
+'img/1py_zhouyinyun.png' -> 'site/img/1py_zhouyinyun.png'
+'img/1py_zj05409.png' -> 'site/img/1py_zj05409.png'
+'img/1py_zssuestc.png' -> 'site/img/1py_zssuestc.png'
+404.html
+announce
+CNAME
+css
+faq
+fonts
+img
+index.html
+js
+license
+pol
+search
+sitemap.xml
+sitemap.xml.gz
+/opt/www/101camp/gl_py.101.camp
+
+	 crt. PATH ===
+/opt/www/101camp/zq_ghpy101camp
+404.html
+announce
+CNAME
+css
+faq
+fonts
+img
+index.html
+js
+license
+pol
+search
+sitemap.xml
+sitemap.xml.gz
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   index.html
+	modified:   pol/index.html
+	modified:   search/search_index.json
+	modified:   sitemap.xml.gz
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 82353e0] 👌 IMPROVE: pub(site) gen. by MkDocs as invoke (at 190625 2134 20.230)
+ 4 files changed, 3 insertions(+), 2 deletions(-)
+To git@github.com:ZoomQuiet/ghpy101camp.git
+   9a0e2d1..82353e0  master -> master
+
+	 powded by pub101CAMP v.190521.2042
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+Everything up-to-date
+###::end@ 2019/06/25 21:34:31
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
