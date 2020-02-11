@@ -1,58 +1,34 @@
-# 评注
-http://101.camp 's commentes hosting
+# dlog_tm101camp
+> orphan br. for deploy tm.101.camp logging 
 
-## 背景
+## init.
 
-- 101.camp 为首有一系列蟒营™课程网站
-- 需要统一的评注入口
+    ༄  mkdir dlog_tm101camp
 
-## 问题
-> 以往使用的 DISQUS 服务已和谐
+    ༄  cd dlog_tm101camp/
 
-- 发现 [utterances](https://utteranc.es/)
-    + 基于 github-api
-    + 利用 Issue 接口
-    + 将指定仓库的公开 Issue 变成对应网页的评注入口
-    + 优雅/精巧/合理/免费/稳定...
+    ༄  git init .
+    Initialized empty Git repository in /opt/data/Sites/101.camp/_running/dlog_tm101camp/.git/
 
+    ༄  git remote add -t dlog_tm101camp -f origin  git@github.com:101camp/comments.git
+    Updating origin
+    remote: Enumerating objects: 4, done.
+    remote: Counting objects: 100% (4/4), done.
+    remote: Compressing objects: 100% (4/4), done.
+    remote: Total 4 (delta 0), reused 4 (delta 0), pack-reused 0
+    Unpacking objects: 100% (4/4), done.
+    From github.com:101camp/comments
+     * [new branch]      dlog_tm101camp -> origin/dlog_tm101camp
 
-## 应对
-https://github.com/101camp/comments
+    ༄  git co dlog_tm101camp
+    Branch dlog_tm101camp set up to track remote branch dlog_tm101camp from origin.
+    Switched to a new branch 'dlog_tm101camp'
 
-- 创建仓库
-- 配置 [utterances](https://utteranc.es/)
-- 将所有相关网络模板中的评注入口, 都指向这儿
-- [Issues · 101camp/comments](https://github.com/101camp/comments/issues) 
-
-## 以及
-> 功能如此完备的一个仓库, 只使用 Issue 是不科学的
-
-基于 MkDocs 改造的一系列网站
-
-- 因为, 并没被 github 官方支内置构建
-- 所以, 只能自行完成自动化构建
-- 最简洁的方案:
-    + 在公网主机中
-    + 部署自动化构建环境
-    + 通过 crontab 定期检验是否有`触发物`
-        * 有, 就构建并发布
-        * 冇, 就略过
-- 自动过程,总是会有一些意外发生
-- 但是, 自己不一定在合理的环境中, 能随时查看编译/发布过程
-- 那么, 如果将自动发布过程的日志, 收集到一个仓库中
-    + 不就可以随时通过网页来查询详细过程了?
-- 当前仓库就是一个天然的容器
-    + 只是, 每个具体网站的编译过程没什么关联
-    + 所以, 自然想到分离的 orphan 分支
+    ༄  git br -a
+    * dlog_tm101camp
+      remotes/origin/dlog_tm101camp
 
 
-当前针对性收集的编译日志索引:
-
-    /
-    +- dlog101camp    <- 101.camp
-    +- dlog_py101camp <- py.101.camp
-    +- dlog_tm101camp <- tm.101.camp
-    ...
 
 
 
