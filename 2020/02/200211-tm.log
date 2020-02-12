@@ -1,0 +1,295 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 19:36:35
+/opt/www/101camp/TM
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm
+./_trigger
+
+	TRIGGER obj. -> deploy.md ~> NOT exist
+	 CANCEL build...
+nothing need deploy
+###::end@ 2020/02/11 19:36:35
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 19:41:57
+/opt/www/101camp/TM
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm
+./_trigger
+
+	TRIGGER obj. -> deploy.md ~> NOT exist
+	 CANCEL build...
+nothing need deploy
+###::end@ 2020/02/11 19:42:01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 19:42:52
+/opt/www/101camp/TM
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm
+./_trigger
+
+	TRIGGERed by deploy.md exist
+auto deplo NOW:
+'/opt/www/101camp/TM/tm/docs/alabaster'
+[]
+start inject
+- [ User guide](guide.md)
+- [ Alabaster for MkDocs](readme.md)
+- [ Developer guide](dev.md)
+end inject
+'/opt/www/101camp/TM/tm/docs/1overview'
+[]
+start inject
+- [ 资源汇总](200209-0tm-zoe-resources.md)
+- [ TM 时间账单服务](200209-0tm-zoe-readme.md)
+- [ 问答汇总](200209-0tm-zoe-qa.md)
+end inject
+'/opt/www/101camp/TM/tm/docs/4experience'
+[]
+start inject
+
+end inject
+'/opt/www/101camp/TM/tm/docs/3work'
+[]
+start inject
+
+end inject
+'/opt/www/101camp/TM/tm/docs/2record'
+[]
+start inject
+- [ zoejane's log](191228-log-zoejane.md)
+- [ 2020-01-02 [101camp0tm] 834 启用+校调记录行为](200102-du-zq-mail.md)
+- [ 2019-12-28  [DUr1912]preTM 新怼福利, 老怼志愿体验](191228-du-zq-issue.md)
+- [ 2020-02-10 TM 时间账单服务小站 上线](200210-zoe-site.md)
+- [ 2017-04-21 大妈聊时间账单 录音纪要 分享](170421-dama-tm-podcast.md)
+- [ 2020-01-02  4w[DUr1912]0TM 服务体验](200102-du-zq-issue.md)
+end inject
+
+	 _injector /opt/www/101camp/TM/tm/docs/index.md
+start inject
+- [ 2020-02-10 TM 时间账单服务小站 上线](2record/200210-zoe-site.md)
+- [ 资源汇总](1overview/200209-0tm-zoe-resources.md)
+- [ TM 时间账单服务](1overview/200209-0tm-zoe-readme.md)
+- [ 问答汇总](1overview/200209-0tm-zoe-qa.md)
+- [ 2020-01-02 [101camp0tm] 834 启用+校调记录行为](2record/200102-du-zq-mail.md)
+- [ 2020-01-02  4w[DUr1912]0TM 服务体验](2record/200102-du-zq-issue.md)
+- [ zoejane's log](2record/191228-log-zoejane.md)
+- [ 2019-12-28  [DUr1912]preTM 新怼福利, 老怼志愿体验](2record/191228-du-zq-issue.md)
+- [ 2017-04-21 大妈聊时间账单 录音纪要 分享](2record/170421-dama-tm-podcast.md)
+end inject
+/opt/www/101camp/TM/tm
+./_trigger/deploy.md
+removed './_trigger/deploy.md'
+total 4.0K
+-rw-rw-r-- 1 1.2K Feb 11 16:56 .gitignore
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    _trigger/deploy.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 901ec42] 🐛 FIX: (pubDUW) recover trigger obj. wait NEXT deploy
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 _trigger/deploy.md
+To git@github.com:101camp/tm.git
+   60f59d8..901ec42  master -> master
+TRIGGER obj. recover -> waiting human deploy again
+/opt/www/101camp/TM/tm
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+Everything up-to-date
+/opt/www/101camp/TM
+1overview
+2record
+3work
+4experience
+alabaster
+CNAME
+css
+index.html
+js
+license
+search
+sitemap.xml
+sitemap.xml.gz
+/opt/www/101camp/TM/tm
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm_ghp
+1overview
+2record
+3work
+4experience
+alabaster
+CNAME
+css
+index.html
+js
+license
+search
+sitemap.xml
+sitemap.xml.gz
+On branch gh-pages
+Your branch is up-to-date with 'origin/gh-pages'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   1overview/200209-0tm-zoe-qa/index.html
+	modified:   1overview/200209-0tm-zoe-readme/index.html
+	modified:   1overview/200209-0tm-zoe-resources/index.html
+	modified:   1overview/index.html
+	modified:   2record/170421-dama-tm-podcast/index.html
+	modified:   2record/191228-du-zq-issue/index.html
+	modified:   2record/191228-log-zoejane/index.html
+	modified:   2record/200102-du-zq-issue/index.html
+	modified:   2record/200102-du-zq-mail/index.html
+	modified:   2record/200210-zoe-site/index.html
+	modified:   2record/index.html
+	modified:   3work/index.html
+	modified:   4experience/index.html
+	modified:   alabaster/dev/index.html
+	modified:   alabaster/guide/index.html
+	modified:   alabaster/index.html
+	modified:   index.html
+	modified:   license/index.html
+	modified:   sitemap.xml.gz
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[gh-pages d785ef2] 👌 IMPROVE: pub(site) gen. by MkDocs as invoke (at 200211 1943 05.278) from ztop
+ 19 files changed, 18 insertions(+), 18 deletions(-)
+To git@github.com:101camp/tm.git
+   0f12ace..d785ef2  gh-pages -> gh-pages
+
+	 powded by tm101CAMP v.200211.1742
+###::end@ 2020/02/11 19:43:16
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 20:00:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 20:00:07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 20:15:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 20:15:06
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 20:30:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 20:30:07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 20:45:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 20:45:07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 21:00:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 21:00:07
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 21:15:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 21:15:06
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 21:30:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 21:30:08
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 21:45:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 21:45:12
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 22:00:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 22:00:08
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 22:15:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 22:15:08
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 22:30:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 22:30:05
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 22:45:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 22:45:06
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 23:00:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 23:00:09
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 23:15:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 23:15:08
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 23:30:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 23:30:08
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/11 23:45:02
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/11 23:45:06
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
