@@ -425,3 +425,27 @@ nothing need deploy
 	TRIGGER obj. -> deploy.md ~> NOT exist
 	 CANCEL build...
 nothing need deploy
+###::end@ 2020/02/12 21:32:04
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/12 21:34:34
+/opt/www/101camp/TM
+/opt/www/101camp/TM
+Traceback (most recent call last):
+  File "/opt/bin/miniconda3/bin/inv", line 11, in <module>
+    sys.exit(program.run())
+  File "/opt/bin/miniconda3/lib/python3.7/site-packages/invoke/program.py", line 384, in run
+    self.execute()
+  File "/opt/bin/miniconda3/lib/python3.7/site-packages/invoke/program.py", line 566, in execute
+    executor.execute(*self.tasks)
+  File "/opt/bin/miniconda3/lib/python3.7/site-packages/invoke/executor.py", line 129, in execute
+    result = call.task(*args, **call.kwargs)
+  File "/opt/bin/miniconda3/lib/python3.7/site-packages/invoke/tasks.py", line 127, in __call__
+    result = self.body(*args, **kwargs)
+  File "/opt/www/101camp/TM/tm/tasks.py", line 346, in pub
+    pl(c, site)
+  File "/opt/www/101camp/TM/tm/tasks.py", line 111, in pl
+    _aim = '%s/%s'%(CAMPROOT, CSITES[site]['gl'])
+KeyError: 'gl'
