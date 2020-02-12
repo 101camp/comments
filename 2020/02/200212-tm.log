@@ -449,3 +449,205 @@ Traceback (most recent call last):
   File "/opt/www/101camp/TM/tm/tasks.py", line 111, in pl
     _aim = '%s/%s'%(CAMPROOT, CSITES[site]['gl'])
 KeyError: 'gl'
+###::end@ 2020/02/12 21:34:42
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/12 21:36:30
+/opt/www/101camp/TM
+/opt/www/101camp/TM
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm_ghp
+From github.com:101camp/tm
+   d785ef2..34ded81  gh-pages   -> origin/gh-pages
+   322e4ac..d2e156f  master     -> origin/master
+Updating d785ef2..34ded81
+Fast-forward
+ .gitignore                                    | 129 --------------------------
+ .nojekyll                                     |   0
+ 1overview/200209-0tm-zoe-qa/index.html        |   2 +-
+ 1overview/200209-0tm-zoe-readme/index.html    |   2 +-
+ 1overview/200209-0tm-zoe-resources/index.html |   2 +-
+ 1overview/index.html                          |   2 +-
+ 2record/170421-dama-tm-podcast/index.html     |   2 +-
+ 2record/191228-du-zq-issue/index.html         |   2 +-
+ 2record/191228-log-zoejane/index.html         |   2 +-
+ 2record/200102-du-zq-issue/index.html         |   2 +-
+ 2record/200102-du-zq-mail/index.html          |   3 +-
+ 2record/200210-zoe-site/index.html            |   2 +-
+ 2record/index.html                            |   2 +-
+ 3work/index.html                              |   2 +-
+ 4experience/index.html                        |   2 +-
+ alabaster/dev/index.html                      |   2 +-
+ alabaster/guide/index.html                    |   2 +-
+ alabaster/index.html                          |   2 +-
+ index.html                                    |   2 +-
+ license/index.html                            |   2 +-
+ sitemap.xml                                   |   6 +-
+ sitemap.xml.gz                                | Bin 194 -> 194 bytes
+ 22 files changed, 21 insertions(+), 151 deletions(-)
+ delete mode 100644 .gitignore
+ create mode 100644 .nojekyll
+
+	 crt. PATH ===
+/opt/www/101camp/TM/dlog_tm101camp
+Already up-to-date.
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm
+./_trigger
+
+	TRIGGERed by deploy.md exist
+auto deplo NOW:
+'/opt/www/101camp/TM/tm/docs/alabaster'
+[]
+start inject
+- [ User guide](guide.md)
+- [ Alabaster for MkDocs](readme.md)
+- [ Developer guide](dev.md)
+end inject
+'/opt/www/101camp/TM/tm/docs/1overview'
+[]
+start inject
+- [ 资源汇总](200209-0tm-zoe-resources.md)
+- [ TM 时间账单服务](200209-0tm-zoe-readme.md)
+- [ 问答汇总](200209-0tm-zoe-qa.md)
+end inject
+'/opt/www/101camp/TM/tm/docs/4experience'
+[]
+start inject
+
+end inject
+'/opt/www/101camp/TM/tm/docs/3work'
+[]
+start inject
+
+end inject
+'/opt/www/101camp/TM/tm/docs/2record'
+[]
+start inject
+- [ zoejane's log](191228-log-zoejane.md)
+- [ 2020-01-02 [101camp0tm] 834 启用+校调记录行为](200102-du-zq-mail.md)
+- [ 2019-12-28  [DUr1912]preTM 新怼福利, 老怼志愿体验](191228-du-zq-issue.md)
+- [ 2020-02-10 TM 时间账单服务小站 上线](200210-zoe-site.md)
+- [ 2017-04-21 大妈聊时间账单 录音纪要 分享](170421-dama-tm-podcast.md)
+- [ 2020-01-02  4w[DUr1912]0TM 服务体验](200102-du-zq-issue.md)
+end inject
+
+	 _injector /opt/www/101camp/TM/tm/docs/index.md
+start inject
+- [ 2020-02-10 TM 时间账单服务小站 上线](2record/200210-zoe-site.md)
+- [ 资源汇总](1overview/200209-0tm-zoe-resources.md)
+- [ TM 时间账单服务](1overview/200209-0tm-zoe-readme.md)
+- [ 问答汇总](1overview/200209-0tm-zoe-qa.md)
+- [ 2020-01-02 [101camp0tm] 834 启用+校调记录行为](2record/200102-du-zq-mail.md)
+- [ 2020-01-02  4w[DUr1912]0TM 服务体验](2record/200102-du-zq-issue.md)
+- [ zoejane's log](2record/191228-log-zoejane.md)
+- [ 2019-12-28  [DUr1912]preTM 新怼福利, 老怼志愿体验](2record/191228-du-zq-issue.md)
+- [ 2017-04-21 大妈聊时间账单 录音纪要 分享](2record/170421-dama-tm-podcast.md)
+end inject
+/opt/www/101camp/TM/tm
+./_trigger/deploy.md
+removed './_trigger/deploy.md'
+total 4.0K
+-rw-rw-r-- 1 1.2K Feb 11 16:56 .gitignore
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    _trigger/deploy.md
+	modified:   docs/1overview/index.md
+	modified:   docs/2record/index.md
+	modified:   docs/3work/index.md
+	modified:   docs/4experience/index.md
+	modified:   docs/alabaster/index.md
+	modified:   docs/index.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ce49af3] 🐛 FIX: (pubDUW) recover trigger obj. wait NEXT deploy
+ 7 files changed, 6 insertions(+), 7 deletions(-)
+ delete mode 100644 _trigger/deploy.md
+To git@github.com:101camp/tm.git
+   d2e156f..ce49af3  master -> master
+TRIGGER obj. recover -> waiting human deploy again
+/opt/www/101camp/TM/tm
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+Everything up-to-date
+/opt/www/101camp/TM
+1overview
+2record
+3work
+4experience
+alabaster
+CNAME
+css
+index.html
+js
+license
+search
+sitemap.xml
+sitemap.xml.gz
+/opt/www/101camp/TM/tm
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm_ghp
+1overview
+2record
+3work
+4experience
+alabaster
+CNAME
+css
+index.html
+js
+license
+search
+sitemap.xml
+sitemap.xml.gz
+On branch gh-pages
+Your branch is up-to-date with 'origin/gh-pages'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   1overview/200209-0tm-zoe-qa/index.html
+	modified:   1overview/200209-0tm-zoe-readme/index.html
+	modified:   1overview/200209-0tm-zoe-resources/index.html
+	modified:   1overview/index.html
+	modified:   2record/170421-dama-tm-podcast/index.html
+	modified:   2record/191228-du-zq-issue/index.html
+	modified:   2record/191228-log-zoejane/index.html
+	modified:   2record/200102-du-zq-issue/index.html
+	modified:   2record/200102-du-zq-mail/index.html
+	modified:   2record/200210-zoe-site/index.html
+	modified:   2record/index.html
+	modified:   3work/index.html
+	modified:   4experience/index.html
+	modified:   alabaster/dev/index.html
+	modified:   alabaster/guide/index.html
+	modified:   alabaster/index.html
+	modified:   index.html
+	modified:   license/index.html
+	modified:   search/search_index.json
+	modified:   sitemap.xml.gz
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[gh-pages 0b557aa] 👌 IMPROVE: pub(site) gen. by MkDocs as invoke (at 200212 2137 00.478) from ztop
+ 20 files changed, 25 insertions(+), 25 deletions(-)
+To git@github.com:101camp/tm.git
+   34ded81..0b557aa  gh-pages -> gh-pages
+
+	 powded by tm101CAMP v.200212.2142
