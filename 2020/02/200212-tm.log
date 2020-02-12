@@ -395,3 +395,18 @@ nothing need deploy
 ###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
 ###::run@ 2020/02/12 21:30:01
 /opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/02/12 21:30:12
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/02/12 21:31:38
+/opt/www/101camp/TM
+
+	 crt. PATH ===
+/opt/www/101camp/TM/tm
+./_trigger
+
+	TRIGGER obj. -> deploy.md ~> NOT exist
+	 CANCEL build...
+nothing need deploy
