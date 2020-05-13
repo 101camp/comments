@@ -191,3 +191,10 @@
 ###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
 ###::run@ 2020/05/13 14:45:01
 /opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
+###::end@ 2020/05/13 14:45:08
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###::cron4trig2tm.sh v.200211.1942 Hooks log 4 auto deploy tm.101.camp
+###::run@ 2020/05/13 15:00:01
+/opt/www/101camp/TM/tm/cron4trig2tm.sh: line 44: inv: command not found
